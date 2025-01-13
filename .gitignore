@@ -1,8 +1,0 @@
-Manifest.toml
-*.pyc
-*.code-workspace
-*.class
-.*.tmp.nlogo
-netlogo
-benchmark_results.txt
-__pycache__
